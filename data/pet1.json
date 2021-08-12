@@ -1,0 +1,18 @@
+{
+  "id": 0,
+  "category": {
+    "id": 1,
+    "name": "cat"
+  },
+  "name": "Nico",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 2021,
+      "name": "cats for adoption"
+    }
+  ],
+  "status": "available"
+}
